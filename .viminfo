@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1683561895,,"wq"
+|2,0,1683566003,,"wq"
+:WQ
+|2,0,1683564645,,"WQ"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +27,58 @@
 # Registers:
 
 # File marks:
-'0  6  0  ~/docker-compose.yml
-|4,48,6,0,1683561895,"~/docker-compose.yml"
+'0  3  5  ~/super.yml
+|4,48,3,5,1683566003,"~/super.yml"
+'1  6  0  ~/dockerfile
+|4,49,6,0,1683564656,"~/dockerfile"
+'2  6  0  ~/docker-compose.yml
+|4,50,6,0,1683561895,"~/docker-compose.yml"
 
 # Jumplist (newest first):
+-'  3  5  ~/super.yml
+|4,39,3,5,1683566003,"~/super.yml"
+-'  1  0  ~/super.yml
+|4,39,1,0,1683565988,"~/super.yml"
+-'  6  0  ~/dockerfile
+|4,39,6,0,1683564656,"~/dockerfile"
+-'  6  0  ~/dockerfile
+|4,39,6,0,1683564656,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1683564630,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1683564630,"~/dockerfile"
+-'  6  0  ~/docker-compose.yml
+|4,39,6,0,1683561895,"~/docker-compose.yml"
+-'  6  0  ~/docker-compose.yml
+|4,39,6,0,1683561895,"~/docker-compose.yml"
+-'  6  0  ~/docker-compose.yml
+|4,39,6,0,1683561895,"~/docker-compose.yml"
 -'  6  0  ~/docker-compose.yml
 |4,39,6,0,1683561895,"~/docker-compose.yml"
 -'  1  0  ~/docker-compose.yml
 |4,39,1,0,1683561877,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1683561877,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1683561877,"~/docker-compose.yml"
+-'  1  0  ~/docker-compose.yml
+|4,39,1,0,1683561877,"~/docker-compose.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/super.yml
+	*	1683566000	0
+	"	3	5
+	^	3	6
+	.	3	5
+	+	3	5
+
+> ~/dockerfile
+	*	1683564649	0
+	"	6	0
+	^	6	0
+	.	5	6
+	+	5	6
 
 > ~/docker-compose.yml
 	*	1683561893	0

@@ -15,3 +15,15 @@ git push -u origin main
 git push -u origin master
 git branch -M master
 git push -u origin master
+ls
+git init
+git add .
+git commit -m "a" 
+git remote add origin https://github.com/azmeeranaveen/django-todo-cicd.git
+sudo apt-get upodate
+sudo apt-get update
+vim dockerfile
+git init
+git add dockerfile
+git commit -m "a"
+git remote add origin https://github.com/azmeeranaveen/django-todo-cicd.git
